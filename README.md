@@ -2,6 +2,7 @@
 
 Welcome to my ethical hacking portfolio! Here you'll find my projects, custom lab environments, research, and educational content focused on cybersecurity, 🔴red teaming, and penetration testing.
 
+![Uploading Screenshot_20260518-181714.jpg …]()
 
 ---
 
