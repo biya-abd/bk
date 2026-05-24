@@ -67,7 +67,7 @@ This extensive library of hands-on code reflects a deep, continuous study of bac
 - **Description:** Developed a localized secure testing ground to safely audit login web-forms without exposing external web systems to risk. 
 - **Tools Used:** Python (Backend Server Modules), HTML (Frontend User Interface), Local Host Environment (`127.0.0.1:5000`).
 - **Key Findings:** Modeled how backend web applications deliver systematic status responses during failed authentication attempts, providing the essential logic telemetry that brute-force utilities use to identify cracked credentials.
-- **Link:** [GitHub Repository: Termux Web-Form Security Lab](https://github.com/biya-abd/bk)
+- 
 
 ### Project 2: Automated School Management Infrastructure
 - **Description:** Architected and engineered a comprehensive, custom school management system to streamline tracking and administration protocols.
