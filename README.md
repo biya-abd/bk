@@ -23,6 +23,20 @@ I am a passionate 17-year-old cybersecurity student and certified Python Develop
 
 ---
 
+
+## 📚 Development Volume & Engineering Showcase
+
+> "Engineered over 120+ custom Python projects, mapping a complete development journey from building fundamental CLI calculators to architecting multi-layered school management systems."
+
+<p align="center">
+  <img src="![Screenshot_20260518-181714.jpg](https://github.com/user-attachments/assets/c8164b00-5f38-431f-9a0e-fc930a181a7b)
+" alt="Python Projects Gallery" width="350"/>
+</p>
+
+
+This extensive library of hands-on code reflects a deep, continuous study of backend logic, data flows, and secure application architecture.
+
+
 ## YouTube Projects & Tutorials🎥
 
 ### 📺 Full-Length Masterclass: Automated Web-Form Auditing with THC Hydra
