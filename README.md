@@ -19,14 +19,9 @@ Verified certificate for completing core and advanced algorithmic paradigms, bac
 
 **Biyansa Abdurahman (Biya)** | Certified Python Developer | Ethical Hacker | Penetration Tester
 
-I am a passionate 17-year-old cybersecurity student and certified Python Developer based in Ethiopia. Guided by strong technical mentorship, I specialize in building custom network security labs and understanding offensive testing methodologies to better defend modern infrastructures. My focus revolves around building backend security scripts in Python and analyzing protocols to identify flaws like weak authentication policies. I look forward to contributing to top-tier security programs and agencies globally.
+I am a passionate 17-year-old cybersecurity student and certified Python Developer based in Ethiopia. Guided by strong technical mentorship, I specialize in building custom network security labs and understanding offensive testing to better defend modern infrastructures. My focus revolves around building backend security scripts in Python and analyzing protocols to identify flaws like weak authentication policies. I look forward to contributing to top-tier security programs and agencies globally.
 
-## Skills
-
-- **Languages:** Python (Certified), HTML, Bash Scripting
-- **Penetration Testing:** Web Application Security, Network Auditing, Protocol Analysis
-- **Methodologies:** Brute-Force & Dictionary Attacks, Vulnerability Assessment, Defending Social Engineering
-- **Tools & Environments:** Linux, Termux, THC Hydra, Metasploit, Nethunter, Local Sandbox Architecture
+---
 
 ## YouTube Projects & Tutorials
 
@@ -44,6 +39,14 @@ I am a passionate 17-year-old cybersecurity student and certified Python Develop
 **Description:** Fast-paced, engaging content focusing on cybersecurity concepts, ethical hacking tips, and quick tech highlights designed for quick learning.
 
 * 🔗 **Watch the Short:** [Cybersecurity & Tech Quick Demo](https://youtube.com/shorts/5lK5en3Vwwk?si=J4o8FRJ2ei589ufc)
+
+## Skills
+
+- **Languages:** Python (Certified), HTML(Beginner), Bash Scripting(Beginner),
+- **Penetration Testing:** Web Application Security, Network Auditing, Protocol Analysis
+- **Methodologies:** Brute-Force & Dictionary Attacks, Vulnerability Assessment, Defending Social Engineering
+- **Tools & Environments:** Linux, Termux, THC Hydra, Metasploit, Nethunter(Beginner), Local Sandbox Architecture
+
 
 ---
 
