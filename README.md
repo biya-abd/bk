@@ -2,7 +2,7 @@
 
 Welcome to my ethical hacking portfolio! Here you'll find my projects, custom lab environments, research, and educational content focused on cybersecurity, 🔴red teaming, and penetration testing.
 
-![Uploading Screenshot_20260518-181714.jpg …]()
+![image alt](https://github.com/biya-abd/bk/blob/026c5fd64ceb122733e5733c940e4eae753aef21/Screenshot_20260518-181714.jpg) 
 
 ---
 
