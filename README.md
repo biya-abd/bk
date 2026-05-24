@@ -2,7 +2,7 @@
 
 Welcome to my ethical hacking portfolio! Here you'll find my projects, custom lab environments, research, and educational content focused on cybersecurity, 🔴red teaming, and penetration testing.
 
-![image alt](https://github.com/biya-abd/bk/blob/026c5fd64ceb122733e5733c940e4eae753aef21/Screenshot_20260518-181714.jpg) 
+
 
 ---
 
@@ -29,10 +29,7 @@ I am a passionate 17-year-old cybersecurity student and certified Python Develop
 
 > "Engineered over 120+ custom Python projects, mapping a complete development journey from building fundamental CLI calculators to architecting multi-layered school management systems."
 
-<p align="center">
-  <img src="https://github.com/biya-abd/bk/issues/1#issue-4512949836" width="350"/>
-</p>
-
+![image alt](https://github.com/biya-abd/bk/blob/026c5fd64ceb122733e5733c940e4eae753aef21/Screenshot_20260518-181714.jpg) 
 
 This extensive library of hands-on code reflects a deep, continuous study of backend logic, data flows, and secure application architecture.
 
