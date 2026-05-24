@@ -4,7 +4,7 @@ Welcome to my ethical hacking portfolio! Here you'll find my projects, custom la
 
 ## About Me
 
-**Biyansa Abdurahman (Biyu Love)** | Certified Python Developer | Ethical Hacker | Penetration Tester
+**Biyansa Abdurahman (Biya)** | Certified Python Developer | Ethical Hacker | Penetration Tester
 
 I am a passionate 17-year-old cybersecurity student and certified Python Developer based in Ethiopia. Guided by strong technical mentorship, I specialize in building custom network security labs and understanding offensive testing methodologies to better defend modern infrastructures. My focus revolves around building backend security scripts in Python and analyzing protocols to identify flaws like weak authentication policies. I look forward to contributing to top-tier security programs and agencies globally.
 
