@@ -1,13 +1,13 @@
 # Ethical Hacking Portfolio
 
-Welcome to my ethical hacking portfolio! Here you'll find my projects, custom lab environments, research, and educational content focused on cybersecurity, red teaming, and penetration testing.
+Welcome to my ethical hacking portfolio! Here you'll find my projects, custom lab environments, research, and educational content focused on cybersecurity, 🔴red teaming, and penetration testing.
 
 
 ---
 
 ## Certifications & Learning
 
-### 📜 Certified Python Developer – SoloLearn (May 2026)
+### 📜 Certified Python Developer – SoloLearn 🏅(May 2026)
 Verified certificate for completing core and advanced algorithmic paradigms, backend scripting principles, and object-oriented architectures.
 
 <img src="https://api2.sololearn.com/v2/certificates/CC-ZXBCG4C0/image/png?t=639145516965277460" alt="SoloLearn Python Developer Certificate" width="600"/>
@@ -15,7 +15,7 @@ Verified certificate for completing core and advanced algorithmic paradigms, bac
 ---
 
 
-## About Me
+## About Me🎤
 
 **Biyansa Abdurahman (Biya)** | Certified Python Developer | Ethical Hacker | Penetration Tester
 
@@ -23,7 +23,7 @@ I am a passionate 17-year-old cybersecurity student and certified Python Develop
 
 ---
 
-## YouTube Projects & Tutorials
+## YouTube Projects & Tutorials🎥
 
 ### 📺 Full-Length Masterclass: Automated Web-Form Auditing with THC Hydra
 **Description:** A complete, high-definition guide demonstrating how automated multi-threaded tools interface with web protocols to stress-test credential security. 
@@ -40,7 +40,7 @@ I am a passionate 17-year-old cybersecurity student and certified Python Develop
 
 * 🔗 **Watch the Short:** [Cybersecurity & Tech Quick Demo](https://youtube.com/shorts/5lK5en3Vwwk?si=J4o8FRJ2ei589ufc)
 
-## Skills
+## Skills💪
 
 - **Languages:** Python (Certified), HTML(Beginner), Bash Scripting(Beginner),
 - **Penetration Testing:** Web Application Security, Network Auditing, Protocol Analysis
@@ -50,7 +50,7 @@ I am a passionate 17-year-old cybersecurity student and certified Python Develop
 
 ---
 
-## Projects & Write-ups
+## Projects & Write-ups✍️
 
 ### Project 1: Self-Contained Python/HTML Authentication Lab
 - **Description:** Developed a localized secure testing ground to safely audit login web-forms without exposing external web systems to risk. 
@@ -66,14 +66,14 @@ I am a passionate 17-year-old cybersecurity student and certified Python Develop
 ---
   
 
-### 🧠 INSA Cyber Talent Preparation Track
+###b SUMMARY
 Advanced Network Security & Practical Ethical Hacking Labs (Ongoing study focusing on defensive and offensive infrastructure tactics).
 
 ---
 
 ## Contact & Connect
 
-- 🎬 YouTube Channel: [Biyansa Abdurahman](https://youtu.be/q2dhFR8Rdjk?si=pGQzBXTK3X22MKB3)
+- 🎬 YouTube Channel: [@Biya_tech](https://youtu.be/q2dhFR8Rdjk?si=pGQzBXTK3X22MKB3)
 - 🐙 GitHub Profile: [@biya-abd](https://github.com/biya-abd)
 
 ## Disclaimer
