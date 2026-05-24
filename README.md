@@ -29,8 +29,7 @@ I am a passionate 17-year-old cybersecurity student and certified Python Develop
 > "Engineered over 120+ custom Python projects, mapping a complete development journey from building fundamental CLI calculators to architecting multi-layered school management systems."
 
 <p align="center">
-  <img src="![Screenshot_20260518-181714.jpg](https://github.com/user-attachments/assets/c8164b00-5f38-431f-9a0e-fc930a181a7b)
-" alt="Python Projects Gallery" width="350"/>
+  <img src="https://github.com/biya-abd/bk/issues/1#issue-4512949836" width="350"/>
 </p>
 
 
