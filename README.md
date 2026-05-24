@@ -1,6 +1,17 @@
 # Ethical Hacking Portfolio
 
 Welcome to my ethical hacking portfolio! Here you'll find my projects, custom lab environments, research, and educational content focused on cybersecurity, red teaming, and penetration testing.
+---
+
+## Certifications & Learning
+
+### 📜 Certified Python Developer – SoloLearn (May 2026)
+Verified certificate for completing core and advanced algorithmic paradigms, backend scripting principles, and object-oriented architectures.
+
+<img src="https://api2.sololearn.com/v2/certificates/CC-ZXBCG4C0/image/png?t=639145516965277460" alt="SoloLearn Python Developer Certificate" width="600"/>
+
+---
+
 
 ## About Me
 
@@ -48,15 +59,7 @@ I am a passionate 17-year-old cybersecurity student and certified Python Develop
 - **Key Findings:** Successfully simulated database logic, backend routing, and account credential parsing, helping lay the foundational programming concepts necessary to understand modern enterprise application architecture and access control.
 
 ---
-
-## Certifications & Learning
-
-### 📜 Certified Python Developer – SoloLearn (May 2026)
-Verified certificate for completing core and advanced algorithmic paradigms, backend scripting principles, and object-oriented architectures.
-
-<img src="https://api2.sololearn.com/v2/certificates/CC-ZXBCG4C0/image/png?t=639145516965277460" alt="SoloLearn Python Developer Certificate" width="600"/>
-
----
+  
 
 ### 🧠 INSA Cyber Talent Preparation Track
 Advanced Network Security & Practical Ethical Hacking Labs (Ongoing study focusing on defensive and offensive infrastructure tactics).
