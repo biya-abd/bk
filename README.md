@@ -13,8 +13,9 @@ Verified certificate for completing core and advanced algorithmic paradigms, bac
 
 <img src="https://api2.sololearn.com/v2/certificates/CC-ZXBCG4C0/image/png?t=639145516965277460" alt="SoloLearn Python Developer Certificate" width="600"/>
 
-#### Certificate 🔗link
-***[Click me to verify my Certificate](https://api2.sololearn.com/v2/certificates/CC-ZXBCG4C0/image/png?t=639145516965277460) 
+#### Certificate 🔗link:
+
+* **[Click me to verify my Certificate](https://api2.sololearn.com/v2/certificates/CC-ZXBCG4C0/image/png?t=639145516965277460) 
 
 ---
 
