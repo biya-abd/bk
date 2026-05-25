@@ -85,7 +85,7 @@ I Can't post it on YouTube▶️. 'cause i afraid of losing my YouTube channel.
 ---
   
 
-### 🦺SUMMARYA
+### 🦺SUMMARY
 Self-Educated Novice Network Security & Practical Ethical Hacking Labs (Ongoing study focusing on defensive and offensive infrastructure tactics).
 
 ---
