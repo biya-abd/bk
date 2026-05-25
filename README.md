@@ -30,14 +30,6 @@ I am a passionate 17-year-old cybersecurity student and certified Python Develop
 ---
 
 
-## 📚 Development Volume & Engineering Showcase
-
-> "Engineered over 120+ custom Python projects, mapping a complete development journey from building fundamental CLI calculators to architecting multi-layered school management systems."
-
-![image alt](https://github.com/biya-abd/bk/blob/026c5fd64ceb122733e5733c940e4eae753aef21/Screenshot_20260518-181714.jpg) 
-
-This extensive library of hands-on code reflects a deep, continuous study of backend logic, data flows, and secure application architecture.
-
 
 ## YouTube Projects & Tutorials🎥
 
@@ -59,6 +51,16 @@ I Can't post it on YouTube▶️. 'cause i afraid of losing my YouTube channel.
 **Description:** Fast-paced, engaging content focusing on cybersecurity concepts, ethical hacking tips, and quick tech highlights designed for quick learning.
 
 * 🔗 **Watch the Short:** [Cybersecurity & Tech Quick Demo](https://youtube.com/shorts/5lK5en3Vwwk?si=J4o8FRJ2ei589ufc)
+
+
+## 📚 Development Volume & Engineering Showcase
+
+> "Engineered over 120+ custom Python projects, mapping a complete development journey from building fundamental CLI calculators to architecting multi-layered school management systems."
+
+![image alt](https://github.com/biya-abd/bk/blob/026c5fd64ceb122733e5733c940e4eae753aef21/Screenshot_20260518-181714.jpg) 
+
+This extensive library of hands-on code reflects a deep, continuous study of backend logic, data flows, and secure application architecture.
+
 
 ## Skills💪
 
