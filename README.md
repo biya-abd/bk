@@ -8,10 +8,13 @@ Welcome to my ethical hacking portfolio! Here you'll find my projects, custom la
 
 ## Certifications & Learning
 
-### 📜 Certified Python Developer – SoloLearn 🎓(May 2026)
+### 📜 Certified Python Developer – SoloLearn 🎓
 Verified certificate for completing core and advanced algorithmic paradigms, backend scripting principles, and object-oriented architectures.
 
 <img src="https://api2.sololearn.com/v2/certificates/CC-ZXBCG4C0/image/png?t=639145516965277460" alt="SoloLearn Python Developer Certificate" width="600"/>
+
+#### Certificate 🔗link
+***[Click me to verify my Certificate](https://api2.sololearn.com/v2/certificates/CC-ZXBCG4C0/image/png?t=639145516965277460) 
 
 ---
 
