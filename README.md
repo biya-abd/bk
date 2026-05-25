@@ -49,6 +49,7 @@ This extensive library of hands-on code reflects a deep, continuous study of bac
 * **Tools used:** Termux (Android Linux Environment), THC Hydra v9.5-dev.
 * **What viewers will learn:** Viewers learn the granular breakdown of Hydra command flags, how high-speed brute-forcing exploits weak password choices, and defensive mitigations like rate limiting and strong password generation.
 
+* * I also made Remote Access Trojan (RAT) By only using mobile phone & Python code* : I Can't post it on YouTube▶️. 'cause i afraid of losing my YouTube channel
 ---
 
 ### 🩳 YouTube Short: Quick Cybersecurity Insights
@@ -82,8 +83,8 @@ This extensive library of hands-on code reflects a deep, continuous study of bac
 ---
   
 
-### 🦺 SUMMARY
-Advanced Network Security & Practical Ethical Hacking Labs (Ongoing study focusing on defensive and offensive infrastructure tactics).
+### 🦺SUMMARYA
+Self-Educated Novice Network Security & Practical Ethical Hacking Labs (Ongoing study focusing on defensive and offensive infrastructure tactics).
 
 ---
 
