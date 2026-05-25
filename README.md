@@ -15,7 +15,8 @@ Verified certificate for completing core and advanced algorithmic paradigms, bac
 
 #### Certificate 🔗link:
 
-* **Solo-learn ID:CC-ZXBCG4C0[Click me to verify my Certificate](https://api2.sololearn.com/v2/certificates/CC-ZXBCG4C0/image/png?t=639145516965277460) 
+* **Solo-learn ID:CC-ZXBCG4C0**
+[Click me to verify my Certificate](https://api2.sololearn.com/v2/certificates/CC-ZXBCG4C0/image/png?t=639145516965277460) 
 
 ---
 
