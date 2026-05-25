@@ -64,7 +64,7 @@ I Can't post it on YouTube▶️. 'cause i afraid of losing my YouTube channel.
 - **Languages:** Python (Certified), HTML(Beginner), Bash Scripting(Beginner),
 - **Penetration Testing:** Web Application Security, Network Auditing, Protocol Analysis
 - **Methodologies:** Brute-Force & Dictionary Attacks, Vulnerability Assessment, Defending Social Engineering
-- **Tools & Environments:** Linux, Termux, THC Hydra, Metasploit, Nethunter(Beginner), Local Sandbox Architecture
+- **Tools & Environments:** Linux🐧,NMAP👁 Termux, THC Hydra🐉, Metasploit,Ransomware🥶, Phishing,Nethunter(Beginner), Local Sandbox Architecture
 
 
 ---
@@ -94,6 +94,8 @@ Self-Educated Novice Network Security & Practical Ethical Hacking Labs (Ongoing 
 
 - 🎬 YouTube Channel: [@Biya_tech](https://youtu.be/q2dhFR8Rdjk?si=pGQzBXTK3X22MKB3)
 - 🐙 GitHub Profile: [@biya-abd](https://github.com/biya-abd)
+- 📞 Connect with me on [Telegram](https://t.me/hailuabd)
+
 
 ## Disclaimer
 
