@@ -2,7 +2,7 @@
 
 Welcome to my ethical hacking portfolio! Here you'll find my projects, custom lab environments, research, and educational content focused on cybersecurity, 🔴red teaming, and penetration testing.
 
-![image alt](https://private-user-images.githubusercontent.com/143223484/597531410-ced4b98e-1ca9-4609-8936-7e5400e38c0b.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzk2OTk0ODgsIm5iZiI6MTc3OTY5OTE4OCwicGF0aCI6Ii8xNDMyMjM0ODQvNTk3NTMxNDEwLWNlZDRiOThlLTFjYTktNDYwOS04OTM2LTdlNTQwMGUzOGMwYi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUyNVQwODUzMDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNGY2OTQwZDRjZWE2ZmM3YTY2MDc4MjI2M2VmNjA2YWFmNGI3ZGFjMzIzZTU1OTJiODY2ZWE0MzJmY2MwYTU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.zVjWacMoNtB4lTWwnxJJAUg4uHH67qR_pczkHRmj3YU) 
+
 
 ---
 
@@ -44,7 +44,8 @@ This extensive library of hands-on code reflects a deep, continuous study of bac
 ### 📺 Full-Length Masterclass: Automated Web-Form Auditing with THC Hydra
 **Description:** A complete, high-definition guide demonstrating how automated multi-threaded tools interface with web protocols to stress-test credential security. 
 
-* 🔗 **Watch on YouTube:** [How Attackers Crack Passwords Using Hydra in Termux (Educational Guide)](https://youtu.be/q2dhFR8Rdjk?si=pGQzBXTK3X22MKB3)
+* 🔗 **Watch on YouTube:** 
+![image alt](https://private-user-images.githubusercontent.com/143223484/597531410-ced4b98e-1ca9-4609-8936-7e5400e38c0b.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzk2OTk0ODgsIm5iZiI6MTc3OTY5OTE4OCwicGF0aCI6Ii8xNDMyMjM0ODQvNTk3NTMxNDEwLWNlZDRiOThlLTFjYTktNDYwOS04OTM2LTdlNTQwMGUzOGMwYi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUyNVQwODUzMDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNGY2OTQwZDRjZWE2ZmM3YTY2MDc4MjI2M2VmNjA2YWFmNGI3ZGFjMzIzZTU1OTJiODY2ZWE0MzJmY2MwYTU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.zVjWacMoNtB4lTWwnxJJAUg4uHH67qR_pczkHRmj3YU) [How Attackers Crack Passwords Using Hydra in Termux (Educational Guide)](https://youtu.be/q2dhFR8Rdjk?si=pGQzBXTK3X22MKB3)
 * **Key concepts covered:** Automated credential validation, dictionary attacks, identifying server failure flags (`INVALID PASSWORD`), and optimizing parallel testing.
 * **Tools used:** Termux (Android Linux Environment), THC Hydra v9.5-dev.
 * **What viewers will learn:** Viewers learn the granular breakdown of Hydra command flags, how high-speed brute-forcing exploits weak password choices, and defensive mitigations like rate limiting and strong password generation.
