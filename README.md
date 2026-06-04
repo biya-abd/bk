@@ -96,6 +96,7 @@ Self-Educated Novice Network Security & Practical Ethical Hacking Labs (Ongoing 
 ## Contact & Connect
 
 - 🎬 YouTube Channel: [@Biya_tech](https://youtu.be/q2dhFR8Rdjk?si=pGQzBXTK3X22MKB3)
+- 🎭 TikTok Channel:[@Python_code_2](https://tiktok.com/@python_code_2)
 - 🐙 GitHub Profile: [@biya-abd](https://github.com/biya-abd)
 - 📞 Connect with me on [Telegram](https://t.me/hailuabd)
 
